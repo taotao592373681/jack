@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/day49_mybatis/day49_mybatis.iml" filepath="$PROJECT_DIR$/day49_mybatis/day49_mybatis.iml" />
+>>>>>>> origin/master
       <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
     </modules>
   </component>

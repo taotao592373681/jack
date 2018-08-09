@@ -4,10 +4,18 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/day49_mybatis/pom.xml" />
+>>>>>>> origin/master
       </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="8.0 (1)" project-jdk-type="JavaSDK">
+<<<<<<< HEAD
     <output url="file://$PROJECT_DIR$/classes" />
+=======
+    <output url="file://$PROJECT_DIR$/out" />
+>>>>>>> origin/master
   </component>
 </project>
